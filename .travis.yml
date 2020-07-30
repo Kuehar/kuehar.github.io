@@ -20,7 +20,7 @@ script:
 deploy:
   provider: pages
   skip-cleanup: true
-  github-token: $GITHUB
+  github-token: $Github
   target-branch: master
   local-dir: dist
   on:
