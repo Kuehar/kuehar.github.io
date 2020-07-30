@@ -1,0 +1,32 @@
+[
+  {
+    "name": "aboutme",
+    "path": "/aboutme",
+    "component": "/Users/ken/kuehar.github.io/pages/aboutme.vue",
+    "chunkName": "pages/aboutme"
+  },
+  {
+    "name": "contribute",
+    "path": "/contribute",
+    "component": "/Users/ken/kuehar.github.io/pages/contribute.vue",
+    "chunkName": "pages/contribute"
+  },
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/Users/ken/kuehar.github.io/pages/inspire.vue",
+    "chunkName": "pages/inspire"
+  },
+  {
+    "name": "why",
+    "path": "/why",
+    "component": "/Users/ken/kuehar.github.io/pages/why.vue",
+    "chunkName": "pages/why"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/ken/kuehar.github.io/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
