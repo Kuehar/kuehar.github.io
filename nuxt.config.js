@@ -1,16 +1,5 @@
 import colors from 'vuetify/es5/util/colors'
 
-/* nuxt.config.js */
-// `DEPLOY_ENV` が `GH_PAGES` の場合のみ `router.base = '/<repository-name>/'` を追加する
-const routerBase =
-  process.env.DEPLOY_ENV === 'GH_PAGES'
-    ? {
-        router: {
-          base: '/kuehar.github.io/'
-        }
-      }
-    : {}
-
 export default {
   mode: 'universal',
   /*
@@ -28,7 +17,9 @@ export default {
         content: process.env.npm_package_description || ''
       }
     ],
-    routerBase,
+    router: {
+      base: 'kuehar.github.io/'
+    },
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
   },
   /*

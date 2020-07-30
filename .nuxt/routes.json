@@ -3,30 +3,35 @@
     "name": "aboutme",
     "path": "/aboutme",
     "component": "/Users/ken/kuehar.github.io/pages/aboutme.vue",
-    "chunkName": "pages/aboutme"
+    "chunkName": "pages/aboutme",
+    "_name": "_4abc285f"
   },
   {
     "name": "contribute",
     "path": "/contribute",
     "component": "/Users/ken/kuehar.github.io/pages/contribute.vue",
-    "chunkName": "pages/contribute"
+    "chunkName": "pages/contribute",
+    "_name": "_781a80e3"
   },
   {
     "name": "inspire",
     "path": "/inspire",
     "component": "/Users/ken/kuehar.github.io/pages/inspire.vue",
-    "chunkName": "pages/inspire"
+    "chunkName": "pages/inspire",
+    "_name": "_71a296d4"
   },
   {
     "name": "why",
     "path": "/why",
     "component": "/Users/ken/kuehar.github.io/pages/why.vue",
-    "chunkName": "pages/why"
+    "chunkName": "pages/why",
+    "_name": "_5b5049c2"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/Users/ken/kuehar.github.io/pages/index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_22e1c14c"
   }
 ]
