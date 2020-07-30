@@ -10925,7 +10925,9 @@ async function createApp(ssrContext, config = {}) {
         "name": "description",
         "content": "My portfolio site"
       }],
-      "routerBase": {},
+      "router": {
+        "base": "kuehar.github.io\u002F"
+      },
       "link": [{
         "rel": "icon",
         "type": "image\u002Fx-icon",

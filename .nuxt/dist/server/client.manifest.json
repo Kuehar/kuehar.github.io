@@ -5,7 +5,7 @@
     "../server/index.ssr.html",
     "LICENSES",
     "aboutme.1d43433.js",
-    "app.f6f0561.js",
+    "app.1adb3da.js",
     "commons/app.05a1c85.js",
     "contribute.f5e6e06.js",
     "index.4de7fd3.js",
@@ -18,7 +18,7 @@
     "runtime.f785a25.js",
     "commons/app.05a1c85.js",
     "vendors~app.03e6b16.js",
-    "app.f6f0561.js"
+    "app.1adb3da.js"
   ],
   "async": [
     "aboutme.1d43433.js",
@@ -1273,7 +1273,7 @@
       "aboutme.1d43433.js"
     ],
     "1a3ae26b": [
-      "app.f6f0561.js"
+      "app.1adb3da.js"
     ],
     "085a35c4": [
       "commons/app.05a1c85.js"
