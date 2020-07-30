@@ -18,7 +18,7 @@ export default {
       }
     ],
     router: {
-      base: 'kuehar.github.io/'
+      base: '/<repository-name>/'
     },
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
   },
