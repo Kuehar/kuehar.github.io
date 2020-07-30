@@ -1,0 +1,19 @@
+{
+  "entry": "server.js",
+  "files": {
+    "pages/aboutme.js": "pages/aboutme.js",
+    "pages/contribute.js": "pages/contribute.js",
+    "pages/index.js": "pages/index.js",
+    "pages/inspire.js": "pages/inspire.js",
+    "pages/why.js": "pages/why.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "pages/aboutme.js": "pages/aboutme.js.map",
+    "pages/contribute.js": "pages/contribute.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/inspire.js": "pages/inspire.js.map",
+    "pages/why.js": "pages/why.js.map",
+    "server.js": "server.js.map"
+  }
+}
